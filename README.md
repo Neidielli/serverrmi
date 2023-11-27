@@ -4,6 +4,8 @@
 
 Este é um projeto básico de um sistema de votação utilizando Java e RMI (Remote Method Invocation). O sistema emula uma eleição real, onde um servidor RMI conta os votos enviados por diversas urnas (clientes RMI). O servidor exibe a apuração de votos a cada 5 segundos.
 
+![server em execução](https://github.com/Neidielli/serverrmi/blob/main/img/server.jpeg)
+
 ## Estrutura do Projeto:
 
 ```
